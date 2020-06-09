@@ -1,5 +1,8 @@
 ## Design Patterns Python
 
-### O objetivo do repositório é agregar o maior número de exemplos e aplicações de diversos modelos de designer patterns usando a linguagem Python.
+#### O objetivo do repositório é exemplificar o uso de vários modelos de designer patterns usando a linguagem Python.
 
-teste
+Alguns dos Padrões de Projeto são:
+
+* Strategy;
+* Chain of Responsibility
